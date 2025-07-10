@@ -3,8 +3,7 @@ using namespace std;
 
 int main() {
     int grade;
-
-    cout << "Enter the score: ";
+    
     cin >> grade;
 
     if (grade >= 85) {
